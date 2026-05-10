@@ -1,0 +1,3 @@
+SELECT * FROM Users u 
+ORDER BY created_at DESC
+LIMIT 10;
